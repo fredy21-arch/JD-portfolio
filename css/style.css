@@ -679,6 +679,7 @@ footer{
     #main img{
         margin-top: -90px;
         width: 115%;
+        height: -160%;
     }
 }
 @media(max-width:580px){
